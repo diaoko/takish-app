@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 216 125"
+   width="216"
+   height="125"
+   id="svg33"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37" />
+  <title
+     id="title2">empty_states-sketch</title>
+  <g
+     id="NoItemsCart"
+     transform="translate(-1405.4567,-260.86127)">
+    <g
+       id="g9304"
+       transform="translate(-1460.6937,-1034.7688)">
+      <path
+         id="Background"
+         class="s0"
+         d="m 3003,1394 h -91 c -3.9,0 -7,-3.1 -7,-7 0,-3.9 3.1,-7 7,-7 h -39 c -3.9,0 -7,-3.1 -7,-7 0,-3.9 3.1,-7 7,-7 h 40 c 3.9,0 7,-3.1 7,-7 0,-3.9 -3.1,-7 -7,-7 h -25 c -3.9,0 -7,-3.1 -7,-7 0,-3.9 3.1,-7 7,-7 h 40 c -3.9,0 -7,-3.1 -7,-7 0,-3.9 3.1,-7 7,-7 h 57 c 3.9,0 7,3.1 7,7 0,3.9 -3.1,7 -7,7 h 64 c 3.9,0 7,3.1 7,7 0,3.9 -3.1,7 -7,7 h 22 c 3.9,0 7,3.1 7,7 0,3.9 -3.1,7 -7,7 h -19 c -3.9,0 -7,3.1 -7,7 0,3.9 3.1,7 7,7 h 6 c 3.9,0 7,3.1 7,7 0,3.9 -3.1,7 -7,7 h -52 q -0.8,0 -1.5,-0.2 -0.7,0.2 -1.5,0.2 z m 65,-7 c 0,-3.9 3.1,-7 7,-7 3.9,0 7,3.1 7,7 0,3.9 -3.1,7 -7,7 -3.9,0 -7,-3.1 -7,-7 z"
+         opacity="0.1"
+          fill="#91C8E4"
+          fill-opacity="1"/>
+      <path
+         id="Rectangle"
+         class="s1"
+         d="m 2945,1326 h 67 l -6,9 8,6 h -71 l 9,-6 z"
+          fill="#e47878"
+          fill-opacity="1" />
+      <g
+         id="line">
+        <path
+           id="Line"
+           class="s2"
+           d="m 2919,1405.5 h 21.5"
+            stroke="#91C8E4"
+            stroke-opacity="1"/>
+        <path
+           id="path9"
+           class="s2"
+           d="m 2906.1,1405.5 h 6.9"
+            stroke="#91C8E4"
+            stroke-opacity="1" />
+        <path
+           id="Line 4"
+           class="s3"
+           d="m 3049.1,1405.5 h 2.9"
+            opacity="0.5"
+            stroke="#91C8E4"
+            stroke-opacity="1" />
+        <path
+           id="path12"
+           class="s3"
+           d="m 3022,1405.5 h 22.4"
+            opacity="0.5"
+            stroke="#91C8E4"
+            stroke-opacity="1" />
+      </g>
+      <path
+         id="bag"
+         fill-rule="evenodd"
+         class="s4"
+         d="M 2942,1383.2 V 1343 c 0,-1.7 1.4,-3 3,-3 h 69.5 c 1.1,0 2,0.9 2,2 v 73 c 0,2.2 -1.8,4 -4,4 H 2957.5169 2946 c -2.2,0 -4,-1.8 -4,-4 v -14.9 -4.1 m 0,-4.1 v -4.5"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1" />
+      <path
+         id="path16"
+         class="s5"
+         d="m 2944,1340 v -12 c 0,-1.1 0.8,-2 1.8,-2 h 66.4 c 1,0 1.8,0.9 1.8,2 v 12"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1" />
+      <path
+         id="Oval"
+         class="s6"
+         d="m 2959,1357.5 c 0,-1.9 1.6,-3.5 3.5,-3.5 1.9,0 3.5,1.6 3.5,3.5 0,1.9 -1.6,3.5 -3.5,3.5 -1.9,0 -3.5,-1.6 -3.5,-3.5 z"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1" />
+      <path
+         id="path19"
+         class="s6"
+         d="m 2992,1357.5 c 0,-1.9 1.6,-3.5 3.5,-3.5 1.9,0 3.5,1.6 3.5,3.5 0,1.9 -1.6,3.5 -3.5,3.5 -1.9,0 -3.5,-1.6 -3.5,-3.5 z"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1" />
+      <path
+         id="path21"
+         class="s2"
+         d="m 2995,1361 c 0,8.8 -7.2,16 -16,16 -8.8,0 -16,-7.2 -16,-16"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1" />
+      <path
+         id="Path 3"
+         class="s2"
+         d="m 2945.1,1327 7.1,7 c 0.4,0.5 0.3,1.3 -0.3,1.6 l -7.9,4.4"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1"/>
+      <path
+         id="path24"
+         class="s2"
+         d="m 3014.6,1340 -8.1,-4.4 c -0.5,-0.3 -0.7,-1.1 -0.2,-1.6 l 6.8,-6.9"
+          stroke="#6499E9"
+          fill="#ffffff"
+          stroke-opacity="1"/>
+      <path
+         id="lines"
+         class="s3"
+         d="m 3005.1,1301.3 -11.1,12.5"
+          stroke="#6499E9"
+          stroke-opacity="1" />
+      <path
+         id="path27"
+         class="s3"
+         d="m 2979,1297 v 16.8"
+          stroke="#6499E9"
+          stroke-opacity="1" />
+      <path
+         id="path29"
+         class="s3"
+         d="m 2953,1301.3 11.1,12.5"
+          stroke="#6499E9"
+          stroke-opacity="1" />
+    </g>
+  </g>
+</svg>
